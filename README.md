@@ -1,16 +1,16 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Praneet Mahendrakar</h1>
-<h3 align="center">I am in my second year of Computer Science Engineering at Symbiosis Institute of Technology, Pune. I'm passionate about making DIY Projects and am very interested in Electronics too!</h3>
+<h3 align="center">I am in my second year of Computer Science Engineering at Symbiosis Institute of Technology, Pune. </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar69483&label=Profile%20views&color=0e75b6&style=flat" alt="onkar69483" /> </p>
 
-- 📫 How to reach me **message me on [Linkedin](https://www.linkedin.com/in/onkarmendhapurkar/)**
+- 📫 How to reach me **message me on [Linkedin](https://www.linkedin.com/in/praneetmahendrakar/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/onkarmendhapurkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onkarmendhapurkar/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/onkar.mendhapurkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/onkar.mendhapurkar/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/praneetmahendrakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praneetmahendrakar/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/praneetm_1403/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/praneetm_1403/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
