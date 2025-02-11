@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishav.io)
 <h1 align="center">Hi 👋, I'm Praneet Mahendrakar</h1>
-<h3 align="center">I am in my second year of Computer Science Engineering at Symbiosis Institute of Technology, Pune. </h3>
+<h3 align="center">I am in my Third year of Computer Science Engineering at Symbiosis Institute of Technology, Pune. </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Praneetm1403&label=Profile%20views&color=0e75b6&style=flat" alt="Praneetm1403" /> </p>
