@@ -9,7 +9,7 @@
 
 ## 💡 About Me
 - 🎓 Pursuing **Computer Science Engineering** at **Symbiosis Institute of Technology, Pune**
-- 🔭 Currently working on **MERN + Generative AI Projects**
+- 🔭 Currently Learning **DevOps**
 - 💬 Ask me about **MERN Stack, Networking, DSA, and Table Tennis!**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/praneetmahendrakar/)**
 
