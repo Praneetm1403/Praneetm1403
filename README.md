@@ -9,7 +9,7 @@
 
 ## 💡 About Me
 - 🎓 Pursuing **Computer Science Engineering** at **Symbiosis Institute of Technology, Pune**
-- 🔭 Currently Learning **DevOps**
+- 🔭 Currently Learning **Data-Science**
 - 💬 Ask me about **MERN Stack, Networking, DSA, and Table Tennis!**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/praneetmahendrakar/)**
 
