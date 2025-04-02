@@ -47,10 +47,10 @@
 ---
 
 ## 🎯 Fun Facts
-- 🏓 Been playing **Table Tennis** for over 6 years 🎾
+- 🏓 Been playing **Table Tennis** for over 7 years 🎾
 - 💻 Passionate about **Web Dev, AI, and Open Source**
 - 🎮 Enjoy gaming & exploring new tech trends
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!** ⭐
+⭐ **If you like my work, consider giving my repositories a star,Thank You!** ⭐
